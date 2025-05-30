@@ -28,3 +28,8 @@ Each file is uniquely named using the register_id or user name.
 
 📬 Endpoint
 POST /api/certificate/generate
+
+
+
+
+![download](https://github.com/user-attachments/assets/e0246483-f320-42cd-805a-6cd7056c0bd2)
